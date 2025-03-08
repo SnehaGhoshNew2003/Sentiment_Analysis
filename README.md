@@ -35,6 +35,4 @@ The trained model provides predictions for sentiment classification. Evaluate th
 ## Contributing
 Feel free to submit issues or pull requests to improve this project.
 
-## License
-This project is licensed under the MIT License.
 
