@@ -30,7 +30,7 @@ jupyter notebook Sentiment_Analysis.ipynb
 Ensure that the dataset is available in the correct path. Modify the notebook accordingly if needed.
 
 ## Results
-The trained model provides predictions for sentiment classification. Evaluate the model performance using accuracy and loss metrics.
+The trained model provides predictions for sentiment classification. Evaluated the model performance using accuracy and loss metrics. The model is giving 88.5% accuracy and a loss of 35.4%.
 
 ## Contributing
 Feel free to submit issues or pull requests to improve this project.
